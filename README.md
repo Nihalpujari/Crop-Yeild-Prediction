@@ -54,7 +54,7 @@ This project aims to predict crop yields by utilizing multiple machine learning 
 
 1. Clone the repository:
 
-git clone 
+git clone https://github.com/Nihalpujari/Crop-Yeild-Prediction
 
 
 ## Usage
