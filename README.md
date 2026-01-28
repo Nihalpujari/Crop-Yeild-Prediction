@@ -35,8 +35,7 @@ Predicting crop yields is crucial for informed agricultural decisions. This repo
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -55,7 +54,7 @@ This project aims to predict crop yields by utilizing multiple machine learning 
 
 1. Clone the repository:
 
-git clone https://github.com/YoungCoderQuest/crop-yield-prediction.git
+git clone 
 
 
 ## Usage
